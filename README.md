@@ -4,7 +4,7 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 
 | Date            |   Topic  | Material |
 |:------------------------:|:----------:|:--------:|
-|13-Oct-2020| 1. Bash command line scripting | [Introduction to Workshop]() |
+|13-Oct-2020| 1. Bash command line scripting | [Command line] |
 |20-Oct-2020| 2. ChIP-seq 1 | [ChIP-seq workshop]|
 |27-Oct-2020| 3. ChIP-seq 2 | [ChIP-seq workshop2]|
 |3-Nov-2020| 4. ATAC-seq 1 | [ATAC-seq 1]|
