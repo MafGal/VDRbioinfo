@@ -23,6 +23,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 1. Bash command line scripting 
 
+[Pre-course tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
