@@ -25,4 +25,4 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 [Session info](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf)
 
 
-[Totoro script template](https://github.com/MafGal/VDRbioinfo/SCRIPTS)
+[Totoro script template](https://github.com/MafGal/VDRbioinfo/tree/main/SCRIPTS)
