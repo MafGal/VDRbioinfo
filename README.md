@@ -4,7 +4,7 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 
 | Date            |   Topic  | Material |
 |:------------------------:|:----------:|:--------:|
-|13-Oct-2020| 1. Bash command line scripting | [Command line] |
+|13-Oct-2020| 1. Bash command line scripting | [Command line] (https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf) |
 |20-Oct-2020| 2. ChIP-seq 1 | [ChIP-seq workshop]|
 |27-Oct-2020| 3. ChIP-seq 2 | [ChIP-seq workshop2]|
 |3-Nov-2020| 4. ATAC-seq 1 | [ATAC-seq 1]|
@@ -20,3 +20,5 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 ### 1. Bash command line scripting 
 
 [Pre-course tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+[Session info] (https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf)
+[Totoro script template] (https://github.com/MafGal/VDRbioinfo/SCRIPTS)
