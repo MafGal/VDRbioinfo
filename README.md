@@ -26,7 +26,7 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 [Pre-course tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
 
-[Session info](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf)
+[Command line](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf)
 
 
 [Totoro script template](https://github.com/MafGal/VDRbioinfo/tree/main/SCRIPTS)
