@@ -17,6 +17,10 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 |5-Jan-2021| 10. RNAseq 1 | [RNA-seq 1]|
 |12-Jan-2021| 10. RNAseq 2 | [RNA-seq 2]|
 
+
+## Doubts / Questions / Bugs: please add a new issue on [ISSUES](https://github.com/MafGal/VDRbioinfo/issues)
+
+
 ### 1. Bash command line scripting 
 
 [Pre-course tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
