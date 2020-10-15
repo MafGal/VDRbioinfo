@@ -27,15 +27,11 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 
 [Pre-course tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
-More material:
--[Bash commands](https://github.com/MafGal/VDRbioinfo/tree/main/GLOSSARY/BASH)
-
--[Shell filesystem](https://hbctraining.github.io/Intro-to-Shell/lessons/01_the_filesystem.html)
-
--[grep+pipe](https://hbctraining.github.io/Intro-to-Shell/lessons/02_searching_files.html)
-
--[for loops](https://hbctraining.github.io/Intro-to-Shell/lessons/04_loops_and_scripts.html)
-
+More material:  
+-[Bash commands](https://github.com/MafGal/VDRbioinfo/tree/main/GLOSSARY/BASH)  
+-[Shell filesystem](https://hbctraining.github.io/Intro-to-Shell/lessons/01_the_filesystem.html)  
+-[grep+pipe](https://hbctraining.github.io/Intro-to-Shell/lessons/02_searching_files.html)  
+-[for loops](https://hbctraining.github.io/Intro-to-Shell/lessons/04_loops_and_scripts.html)  
 -[file permissions](https://hbctraining.github.io/Intro-to-Shell/lessons/05_permissions_and_environment_variables.html)
 
 ### [2. The i3S hpc unit: totoro](https://docs.google.com/presentation/d/1TYgBagEt4ARAysdpvkW5Q0t132u1CO4ZGm2BBIshomo)
