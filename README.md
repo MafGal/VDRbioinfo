@@ -2,31 +2,44 @@
 
 We are starting on the 13th of October 2020 a series of bioinformatics sessions for the VDR lab members, covering the command line (bash) and several genomics techniques used in the lab!
 
-| Date            |   Topic  | Material |
-|:------------------------:|:----------:|:--------:|
-|13-Oct-2020| 1. Bash command line scripting | [Command line](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf) |
-|20-Oct-2020| 2. ChIP-seq 1 | [ChIP-seq workshop]|
-|27-Oct-2020| 3. ChIP-seq 2 | [ChIP-seq workshop2]|
-|3-Nov-2020| 4. ATAC-seq 1 | [ATAC-seq 1]|
-|10-Nov-2020| 5. ATAC-seq 2 | [ATAC-seq 2]|
-|17-Nov-2020| 6. 4C-seq 1 | [4C-seq 1]|
-|24-Nov-2020| 7. 4C-seq 2 | [4C-seq 2]|
-|30-Nov-2020| 6. HiChIP-seq / HiC 1 | [HiChIP-seq/HiC 1]|
-|7-Dec-2020| 8. HiChIP-seq / HiC 2 | [HiChIP-seq/HiC 2]|
-|15-Dec-2020| 9. Summary / Round-up | [Round-up]|
-|5-Jan-2021| 10. RNAseq 1 | [RNA-seq 1]|
-|12-Jan-2021| 10. RNAseq 2 | [RNA-seq 2]|
+| Date            | Session | Topic  | 
+|:------------------------:|:----------:|
+|13-Oct-2020| [Session 1](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf) | Bash command line scripting + totoro + UCSC genome browser |
+|20-Oct-2020| [Session 2] | ChIP-seq 1 |
+|27-Oct-2020| [Session 3] | ChIP-seq 2 |
+|3-Nov-2020| [Session 4] | ATAC-seq 1 |
+|10-Nov-2020| [Session 5] | ATAC-seq 2 |
+|17-Nov-2020| [Session 6] | 4C-seq 1 |
+|24-Nov-2020| [Session 7] | 4C-seq 2 |
+|30-Nov-2020| [Session 8] | HiChIP-seq / HiC 1 |
+|7-Dec-2020| [Session 9] | HiChIP-seq / HiC 2 |
+|15-Dec-2020| [Session 10] | Summary / Round-up |
+|5-Jan-2021| [Session 11] | RNAseq 1 |
+|12-Jan-2021| [Session 12] | RNAseq 2 |
 
 
 ## Doubts / Questions / Bugs: please add a new issue on [ISSUES](https://github.com/MafGal/VDRbioinfo/issues)
 
 
-### 1. Bash command line scripting 
+## [Session 1](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf)
+
+### [1. Bash command line scripting](https://docs.google.com/presentation/d/1yq4rQW916kzs-kS69widQBbWEXXt_f2VL0dIZUDkCzQ)
 
 [Pre-course tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
+More material:
+-[Bash commands](https://github.com/MafGal/VDRbioinfo/tree/main/GLOSSARY/BASH)
+-[Shell filesystem](https://hbctraining.github.io/Intro-to-Shell/lessons/01_the_filesystem.html)
+-[grep+pipe](https://hbctraining.github.io/Intro-to-Shell/lessons/02_searching_files.html)
+-[for loops](https://hbctraining.github.io/Intro-to-Shell/lessons/04_loops_and_scripts.html)
+-[file permissions](https://hbctraining.github.io/Intro-to-Shell/lessons/05_permissions_and_environment_variables.html)
 
-[Command line](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf)
-
+### [2. The i3S hpc unit: totoro](https://docs.google.com/presentation/d/1TYgBagEt4ARAysdpvkW5Q0t132u1CO4ZGm2BBIshomo)
 
 [Totoro script template](https://github.com/MafGal/VDRbioinfo/tree/main/SCRIPTS)
+
+-[another example of HPC system](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/lectures/HPC_intro_O2.pdf)
+
+### [3. The UCSC genome browser: making a session and adding custom tracks](https://docs.google.com/presentation/d/15lBS7mwn4mmAXtTm3b_Wu9QIJrXENTFX1wg-a8xrV4Q)
+
+## [Session 2]
