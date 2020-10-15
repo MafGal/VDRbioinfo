@@ -3,7 +3,7 @@
 We are starting on the 13th of October 2020 a series of bioinformatics sessions for the VDR lab members, covering the command line (bash) and several genomics techniques used in the lab!
 
 | Date            | Session | Topic  | 
-|:------------------------:|:----------:|
+|:------------------------:|:----------:|:----------:|
 |13-Oct-2020| [Session 1](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf) | Bash command line scripting + totoro + UCSC genome browser |
 |20-Oct-2020| [Session 2] | ChIP-seq 1 |
 |27-Oct-2020| [Session 3] | ChIP-seq 2 |
