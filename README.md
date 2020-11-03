@@ -5,17 +5,18 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 | Date            | Session | Topic  | 
 |:------------------------:|:----------:|:----------:|
 |13-Oct-2020| [Session 1](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf) | Bash command line scripting + totoro + UCSC genome browser |
-|20-Oct-2020| [Session 2] | ChIP-seq 1 |
-|27-Oct-2020| [Session 3] | ChIP-seq 2 |
-|3-Nov-2020| [Session 4] | ATAC-seq 1 |
-|10-Nov-2020| [Session 5] | ATAC-seq 2 |
-|17-Nov-2020| [Session 6] | 4C-seq 1 |
-|24-Nov-2020| [Session 7] | 4C-seq 2 |
-|30-Nov-2020| [Session 8] | HiChIP-seq / HiC 1 |
-|7-Dec-2020| [Session 9] | HiChIP-seq / HiC 2 |
-|15-Dec-2020| [Session 10] | Summary / Round-up |
-|5-Jan-2021| [Session 11] | RNAseq 1 |
-|12-Jan-2021| [Session 12] | RNAseq 2 |
+|20-Oct-2020| [Session 2](https://drive.google.com/drive/u/1/folders/1DceorSXPrEQT3bKRipkiVedHrzn5LSxC) | [ChIP-seq 1](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
+|27-Oct-2020| [Session 3](https://drive.google.com/drive/u/1/folders/1DceorSXPrEQT3bKRipkiVedHrzn5LSxC) | [ChIP-seq 2](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
+|3-Nov-2020| [Session 4](https://drive.google.com/drive/u/1/folders/1DceorSXPrEQT3bKRipkiVedHrzn5LSxC) | [ChIP-seq 3](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
+|10-Nov-2020| [Session 5] | ATAC-seq 1 |
+|17-Nov-2020| [Session 6] | ATAC-seq 2|
+|24-Nov-2020| [Session 7] | 4C-seq 1 |
+|30-Nov-2020| [Session 8] | 4C-seq 2 |
+|7-Dec-2020| [Session 9] | HiChIP-seq / HiC 1 |
+|15-Dec-2020| [Session 10] | HiChIP-seq / HiC 2 |
+|5-Jan-2020| [Session 11] | Summary / Round-up |
+|12-Jan-2021| [Session 12] | RNAseq 1 |
+|19-Jan-2021| [Session 12] | RNAseq 2 |
 
 
 ## Doubts / Questions / Bugs: please add a new issue on [ISSUES](https://github.com/MafGal/VDRbioinfo/issues)
@@ -37,4 +38,8 @@ More material: [[Bash commands](https://github.com/MafGal/VDRbioinfo/tree/main/G
 
 ### [3. The UCSC genome browser: making a session and adding custom tracks](https://docs.google.com/presentation/d/15lBS7mwn4mmAXtTm3b_Wu9QIJrXENTFX1wg-a8xrV4Q)
 
-## [Session 2]
+## [Session 2](https://drive.google.com/drive/u/1/folders/1DceorSXPrEQT3bKRipkiVedHrzn5LSxC)
+
+For processing in totoro, follow the step-by-step guide [CommandLine_totoro_ChIPseq](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA)
+
+
