@@ -6,17 +6,25 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 |:------------------------:|:----------:|:----------:|
 |13-Oct-2020| [Session 1](https://drive.google.com/drive/folders/1RK7tvdJ9A4OP_lM7eGXGrRjGaGG-rftf) | Bash command line scripting + totoro + UCSC genome browser |
 |20-Oct-2020| [Session 2](https://drive.google.com/drive/u/1/folders/1DceorSXPrEQT3bKRipkiVedHrzn5LSxC) | [ChIP-seq 1](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
-|27-Oct-2020| [Session 3](https://drive.google.com/drive/u/1/folders/1DceorSXPrEQT3bKRipkiVedHrzn5LSxC) | [ChIP-seq 2](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
-|3-Nov-2020| [Session 4](https://drive.google.com/drive/u/1/folders/1DceorSXPrEQT3bKRipkiVedHrzn5LSxC) | [ChIP-seq 3](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
-|10-Nov-2020| [Session 5] | ATAC-seq 1 |
-|17-Nov-2020| [Session 6] | ATAC-seq 2|
-|24-Nov-2020| [Session 7] | 4C-seq 1 |
-|30-Nov-2020| [Session 8] | 4C-seq 2 |
-|7-Dec-2020| [Session 9] | HiChIP-seq / HiC 1 |
-|15-Dec-2020| [Session 10] | HiChIP-seq / HiC 2 |
-|5-Jan-2020| [Session 11] | Summary / Round-up |
-|12-Jan-2021| [Session 12] | RNAseq 1 |
-|19-Jan-2021| [Session 12] | RNAseq 2 |
+|27-Oct-2020| [Session 3](https://docs.google.com/presentation/d/1iOLnkja4k970fX0ilnEjLJTR2YK2JnzRiNGOaA5zJU4) | [ChIP-seq 2](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
+|3-Nov-2020| [Session 4](https://docs.google.com/presentation/d/1zp-QT24xTN0WCFsJgUmgNf-Q3nfBzy_NIlztBYdv9mQ) | [ChIP-seq 3](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
+|10-Nov-2020| [Session 5](https://docs.google.com/presentation/d/1JDvoIZRbBpKJDt3pwogfOkA-7WV4-nDyHidm8-1ipP8) | [ChIP-seq 4](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
+|17-Nov-2020| [Session 6](https://docs.google.com/presentation/d/19uptiDUDQFc5Vocx-EXpR3UX67vQ-x6MNlkGJ1GlpHM) | [ChIP-seq 5](https://docs.google.com/document/d/1OjzmJF3d-Yc3gWhnBYIV9RpnV9UX_L85t2YvUoaInZc)|
+
+|30-Nov-2020| [Session 8] | ATAC-seq 1 |
+|7-Dec-2020| [Session 9] | ATAC-seq 2 |
+|15-Dec-2020| [Session 10] | ATAC-seq 3 |
+|5-Jan-2020| [Session 11] | 4C-seq 1 |
+|12-Jan-2021| [Session 12] | 4C-seq 2 |
+|19-Jan-2021| [Session 13] | 4C-seq 3 |
+|26-Jan-2021| [Session 14] | HiChIP-seq / HiC 1 |
+|2-Feb-2021| [Session 15] | HiChIP-seq / HiC 2 |
+|9-Feb-2021| [Session 16] | HiChIP-seq / HiC 3 |
+|16-Feb-2021| [Session 17] | RNA-seq 1 |
+|23-Feb-2021| [Session 18] | RNA-seq 2 |
+|2-Mar-2021| [Session 19] | RNA-seq 3 |
+|9-Mar-2021| [Session 20] | Round-up / discussion |
+
 
 
 ## Doubts / Questions / Bugs: please add a new issue on [ISSUES](https://github.com/MafGal/VDRbioinfo/issues)
