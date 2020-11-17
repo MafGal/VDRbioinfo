@@ -10,7 +10,6 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 |3-Nov-2020| [Session 4](https://docs.google.com/presentation/d/1zp-QT24xTN0WCFsJgUmgNf-Q3nfBzy_NIlztBYdv9mQ) | [ChIP-seq 3](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
 |10-Nov-2020| [Session 5](https://docs.google.com/presentation/d/1JDvoIZRbBpKJDt3pwogfOkA-7WV4-nDyHidm8-1ipP8) | [ChIP-seq 4](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
 |17-Nov-2020| [Session 6](https://docs.google.com/presentation/d/19uptiDUDQFc5Vocx-EXpR3UX67vQ-x6MNlkGJ1GlpHM) | [ChIP-seq 5](https://docs.google.com/document/d/1OjzmJF3d-Yc3gWhnBYIV9RpnV9UX_L85t2YvUoaInZc)|
-
 |30-Nov-2020| [Session 8] | ATAC-seq 1 |
 |7-Dec-2020| [Session 9] | ATAC-seq 2 |
 |15-Dec-2020| [Session 10] | ATAC-seq 3 |
