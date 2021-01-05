@@ -45,8 +45,10 @@ More material: [[Bash commands](https://github.com/MafGal/VDRbioinfo/tree/main/G
 
 ### [3. The UCSC genome browser: making a session and adding custom tracks](https://docs.google.com/presentation/d/15lBS7mwn4mmAXtTm3b_Wu9QIJrXENTFX1wg-a8xrV4Q)
 
-## [Session 2 - ChIP-seq 1](https://drive.google.com/drive/u/1/folders/1DceorSXPrEQT3bKRipkiVedHrzn5LSxC)
+## [Sessions 2-6 - ChIP-seq](https://drive.google.com/drive/u/1/folders/1DceorSXPrEQT3bKRipkiVedHrzn5LSxC)
 
 For processing in totoro, follow the step-by-step guide [CommandLine_totoro_ChIPseq](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA)
 
+## [Sessions 7-9 - ATAC-seq](https://drive.google.com/drive/u/1/folders/1ULyfs5rVP0GESzZusyeE9M6MtFJwdo-k)
 
+For processing in totoro, follow the step-by-step guide [ATACseq_commandLine_simple](https://docs.google.com/document/d/1zivyO1JiLNQLucqrtpyzael-GWq8Cm-ugBMawKNaEBA)
