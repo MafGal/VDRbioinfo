@@ -10,19 +10,19 @@ We are starting on the 13th of October 2020 a series of bioinformatics sessions 
 |3-Nov-2020| [Session 4](https://docs.google.com/presentation/d/1zp-QT24xTN0WCFsJgUmgNf-Q3nfBzy_NIlztBYdv9mQ) | [ChIP-seq 3](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
 |10-Nov-2020| [Session 5](https://docs.google.com/presentation/d/1JDvoIZRbBpKJDt3pwogfOkA-7WV4-nDyHidm8-1ipP8) | [ChIP-seq 4](https://docs.google.com/document/d/1E-gE1rvNJGRP--YHuDFOIYB8GTRKG9JoXj8VwH0VlSA) |
 |17-Nov-2020| [Session 6](https://docs.google.com/presentation/d/19uptiDUDQFc5Vocx-EXpR3UX67vQ-x6MNlkGJ1GlpHM) | [ChIP-seq 5](https://docs.google.com/document/d/1OjzmJF3d-Yc3gWhnBYIV9RpnV9UX_L85t2YvUoaInZc)|
-|30-Nov-2020| [Session 7] | ATAC-seq 1 |
-|7-Dec-2020| [Session 8] | ATAC-seq 2 |
-|15-Dec-2020| [Session 9] | ATAC-seq 3 |
-|5-Jan-2020| [Session 10] | 4C-seq 1 |
-|12-Jan-2021| [Session 11] | 4C-seq 2 |
-|19-Jan-2021| [Session 12] | 4C-seq 3 |
-|26-Jan-2021| [Session 13] | HiChIP-seq / HiC 1 |
-|2-Feb-2021| [Session 14] | HiChIP-seq / HiC 2 |
-|9-Feb-2021| [Session 15] | HiChIP-seq / HiC 3 |
-|16-Feb-2021| [Session 16] | RNA-seq 1 |
-|23-Feb-2021| [Session 17] | RNA-seq 2 |
-|2-Mar-2021| [Session 18] | RNA-seq 3 |
-|9-Mar-2021| [Session 19] | Round-up / discussion |
+|30-Nov-2020| [Session 7](https://docs.google.com/presentation/d/1dNsZPleMyS_AQyxNGf3PjVsbCrH190akIdMdiiy4Obs) | [ATAC-seq 1](https://docs.google.com/document/d/1zivyO1JiLNQLucqrtpyzael-GWq8Cm-ugBMawKNaEBA) |
+|15-Dec-2020| [Session 8](https://docs.google.com/presentation/d/1vaocHW-FmWp8s7vTVKXDAObSId-hAB-d3C7e8C1IlqQ) | [ATAC-seq 2](https://docs.google.com/document/d/1zivyO1JiLNQLucqrtpyzael-GWq8Cm-ugBMawKNaEBA) |
+|12-Jan-2021| [Session 9] | [ATAC-seq 3](https://docs.google.com/document/d/1zivyO1JiLNQLucqrtpyzael-GWq8Cm-ugBMawKNaEBA) |
+|19-Jan-2021| [Session 10] | [4C-seq 1] |
+|26-Jan-2021| [Session 11] | [4C-seq 2] |
+|2-Feb-2021| [Session 12] | [4C-seq 3] |
+|9-Feb-2021| [Session 13] | [HiChIP-seq / HiC 1] |
+|16-Feb-2021| [Session 14] | [HiChIP-seq / HiC 2] |
+|23-Feb-2021| [Session 15] | [HiChIP-seq / HiC 3] |
+|2-Mar-2021| [Session 16] | [RNA-seq 1] |
+|9-Mar-2021| [Session 17] | [RNA-seq 2] |
+|16-Mar-2021| [Session 18] | [RNA-seq 3] |
+|23-Mar-2021| [Session 19] | Round-up / discussion |
 
 
 
